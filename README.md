@@ -1,4 +1,4 @@
-# Mailjs
+# Mail gw
 
 Node.js wrapper for https://mail.gw/ API
 
