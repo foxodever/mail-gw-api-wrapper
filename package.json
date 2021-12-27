@@ -1,0 +1,27 @@
+{
+    "name": "mail-gw-api-wrapper",
+    "version": "1.0.1",
+    "description": "Wrapper for mail.gw API",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "Temp-mail",
+        "mail"
+    ],
+    "author": "Foxodever",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.24.0"
+    },
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/foxodever/mail-gw-api-wrapper.git"
+    },
+    "bugs": {
+        "url": "https://github.com/foxodever/mail-gw-api-wrapper/issues"
+    },
+    "homepage": "https://github.com/foxodever/mail-gw-api-wrapper#readme"
+}
