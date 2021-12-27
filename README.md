@@ -7,7 +7,7 @@ Node.js wrapper for https://mail.gw/ API
 ## NPM
 
 ```bash
-soon
+npm i mail-gw-api-wrapper
 ```
 
 ## Domain
